@@ -1,0 +1,60 @@
+{
+  "NFLTeams": [
+    {
+      "id":0,
+      "name": "Bengals",
+      "Dividsion": "AFC North",
+      "Location": "Cincinnati",
+      "Country": "USA"
+    },
+    {
+      "id":1,
+      "name": "Ravens",
+      "Dividsion": "AFC North",
+      "Location": "Baltimore",
+      "Country": "USA"
+    },
+    {
+      "id":2,
+      "name": "Steelers",
+      "Dividsion": "AFC North",
+      "Location": "Pittsburgh",
+      "Country": "USA"
+    },
+    {
+      "id":3,
+      "name": "Browns",
+      "Dividsion": "AFC North",
+      "Location": "Cleveland",
+      "Country": "USA"
+    },
+    {
+      "id":4,
+      "name": "Titans",
+      "Dividsion": "AFC South",
+      "Location": "Tennessee",
+      "Country": "USA"
+    },
+    {
+      "id":5,
+      "name": "Colts",
+      "Dividsion": "AFC South",
+      "Location": "Indianapolis",
+      "Country": "USA"
+    },
+    {
+      "id":6,
+      "name": "Texans",
+      "Dividsion": "AFC South",
+      "Location": "Houston",
+      "Country": "USA"
+    },
+    {
+      "id":7,
+      "name": "Jaguars",
+      "Dividsion": "AFC South",
+      "Location": "Jacksonville",
+      "Country": "USA"
+    }
+  ]
+}
